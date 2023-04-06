@@ -1,6 +1,11 @@
 import { createContext, useState, useContext } from "react";
 import questions from "../data/questions.json";
 
+export const DIALOG = {
+  CONFIRM_DIALOG: "CONFIRM",
+  PHONE_DIALOG: "PHONE",
+  PUBLIC_DIALOG: "PUBLIC",
+};
 const defaultContext = {
   question: {
     text: "",

@@ -7,27 +7,30 @@ import Score from "./commponents/Score/Score";
 import DialogProvider from "./providers/DialogProvider";
 import ScoreProvider from "./providers/ScoreProvider";
 import QuestionProvider from "./providers/QuestionProvider";
+import { StyledEngineProvider } from "@mui/material";
 
 function App() {
-  return (
-    <DialogProvider>
-      <ScoreProvider>
-        <QuestionProvider>
-          <div className="wrapper">
-            <Title />
-            <div className="container">
-              <div className="qna">
-                <Question />
-                <Answers />
-              </div>
-              <div className="score">
-                <Score />
+  return (<>
+    <StyledEngineProvider injectFirst>
+      <DialogProvider>
+        <ScoreProvider>
+          <QuestionProvider>
+            <div className="wrapper">
+              <Title />
+              <div className="container">
+                <div className="qna">
+                  <Question />
+                  <Answers />
+                </div>
+                <div className="score">
+                  <Score />
+                </div>
               </div>
             </div>
-          </div>
-        </QuestionProvider>
-      </ScoreProvider>
-    </DialogProvider>
+          </QuestionProvider>
+        </ScoreProvider>
+      </DialogProvider>
+    </StyledEngineProvider></>
   );
 }
 
