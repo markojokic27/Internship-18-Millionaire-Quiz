@@ -4,7 +4,7 @@ import questions from "../data/questions.json";
 const defaultContext = {
   question: {
     text: "",
-    options: ["", "", "", ""],
+    answers: ["", "", "", ""],
     answer: "",
   },
   setQuestion: () => {},
