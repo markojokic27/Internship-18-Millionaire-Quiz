@@ -1,0 +1,153 @@
+[
+  
+  {
+    "text": "What is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "text": "What is the largest organ in the human body?",
+    "options": [
+      "The brain",
+      "The liver",
+      "The skin",
+      "The heart"
+    ],
+    "answer": "The skin"
+  },
+  {
+    "text": "What is the highest mountain in Africa?",
+    "options": [
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "Mount Fuji",
+      "Mount Blanc"
+    ],
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "text": "What is the most spoken language in the world?",
+    "options": [
+      "English",
+      "Mandarin Chinese",
+      "Spanish",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "options": [
+      "Dollar",
+      "Euro",
+      "Yen",
+      "Pound"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "text": "What is the largest country in the world by area?",
+    "options": [
+      "China",
+      "Russia",
+      "USA",
+      "Canada"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "text": "Who is the author of the Harry Potter series of books?",
+    "options": [
+      "J.K. Rowling",
+      "Stephen King",
+      "Dan Brown",
+      "George R.R. Martin"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Cu",
+      "Fe"
+    ],
+    "answer": "Au"
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "text": "What is the name of the river that flows through Egypt?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "text": "What is the name of the highest waterfall in the world?",
+    "options": [
+      "Niagara Falls",
+      "Iguazu Falls",
+      "Victoria Falls",
+      "Angel Falls"
+    ],
+    "answer": "Angel Falls"
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "options": [
+    "Yuan",
+    "Yen",
+    "Won",
+    "Rupiah"
+    ],
+    "answer": "Yen"
+    },
+    {
+    "text": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": [
+    "China",
+    "Japan",
+    "Korea",
+    "Taiwan"
+    ],
+    "answer": "Japan"
+    },
+    {
+    "text": "Who directed the movie 'Jaws'?",
+    "options": [
+    "Steven Spielberg",
+    "Martin Scorsese",
+    "Alfred Hitchcock",
+    "Quentin Tarantino"
+    ],
+    "answer": "Steven Spielberg"
+    }
+]

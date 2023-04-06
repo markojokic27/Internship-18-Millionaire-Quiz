@@ -25,11 +25,11 @@ code {
   border:2px solid black;
 }
 .qna{
-  width: 75%;
+  width: 70%;
 }
 .qna :first-child{
   height: 75%;
 }
 .qna :last-child{
-  height: 25%;
+  height: 30%;
 }
